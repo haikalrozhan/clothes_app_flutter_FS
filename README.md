@@ -1,5 +1,5 @@
 # Snapshot
-![snapshot]()
+![snapshot](https://github.com/haikalrozhan/clothes_app_flutter_FS/blob/main/snapshots/Screenshot_1.png)
 
 # clothes_app
 
